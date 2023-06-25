@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: my-kubernetes-component
+  annotations:
+    jenkins.io/job-full-name: folder/multibranchtest  
 spec:
   lifecycle: production
   owner: my-team
