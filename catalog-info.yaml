@@ -6,6 +6,8 @@ metadata:
     jenkins.io/job-full-name: folder/multibranchtest  
     backstage.io/kubernetes-id: my-kubernetes-component
     github.com/project-slug: gowthamshankar99/jenkinstest
+    servicenow/table: incident
+    servicenow/assignment_group: test
 spec:
   lifecycle: production
   owner: my-team
