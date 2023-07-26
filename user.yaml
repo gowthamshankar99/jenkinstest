@@ -3,5 +3,4 @@ kind: User
 metadata:
   name: example-user
 spec:
-  username: john_doe
-  email: john.doe@example.com
+  memberOf: [guests]  
