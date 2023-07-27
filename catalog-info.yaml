@@ -9,6 +9,6 @@ metadata:
     servicenow/table: incident
     servicenow/assignment_group: test
 spec:
-  lifecycle: production
+  lifecycle: development
   owner: my-team
   type: service
